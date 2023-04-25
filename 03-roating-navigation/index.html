@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
+    <title>Rotating navigation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="circle-container">
+            <div class="circle">
+                <button id="close">
+                    <i class="fas fa-times"></i>
+                </button>
+                <button id="open">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </div>
+        </div>
+        <div class="content">
+            <header class="header">
+                <div class="logo">
+                    <h1 class="logo-heading">Cozy House</h1>
+                    <p class="logo-text">Shelter for pets in Boston</p>
+                </div>
+            </header>
+            <div class="start-screen-info">
+                <h1 class="heading">Not only people need a house</h1>
+                <p class="text start-screen-text light-text">We offer to give a chance to a little and nice puppy with an extremely wide and open heart. He or she will love you more than anybody else in the world, you will see!</p>
+                <a href="#" class="button-text button-primary">Make a friend</a>
+            </div>
+            <img src="assets/start-screen-puppy.png" alt="start-screen-puppy" class="background-image">
+        </div>
+    </div>
+
+    <nav>
+        <ul>
+            <li><i class="fas fa-home"> Home</i></li>
+            <li><i class="fas fa-user-astronaut"> About</i></li>
+            <li><i class="fas fa-horse"> Contacts</i></li>
+        </ul>
+    </nav>
+    <script src="index.js"></script>
+</body>
+</html>
