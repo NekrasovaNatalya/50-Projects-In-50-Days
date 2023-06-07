@@ -5,7 +5,7 @@
 
 [Rotating Navigation](https://codepen.io/wotydbho-the-typescripter/pen/oNQNEaO)
 
-[]()
+[Hidden Search Widget](https://codepen.io/wotydbho-the-typescripter/pen/jOQOZga)
 
 []()
 
