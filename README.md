@@ -7,7 +7,7 @@
 
 [Hidden Search Widget](https://codepen.io/wotydbho-the-typescripter/pen/jOQOZga)
 
-[]()
+[Blurry Loading](https://codepen.io/wotydbho-the-typescripter/pen/QWJWmbO)
 
 []()
 
