@@ -9,7 +9,7 @@
 
 [Blurry Loading](https://codepen.io/wotydbho-the-typescripter/pen/QWJWmbO)
 
-[]()
+[Scroll Animation](https://codepen.io/wotydbho-the-typescripter/pen/PoxoRPb)
 
 []()
 
