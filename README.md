@@ -11,6 +11,6 @@
 
 [Scroll Animation](https://codepen.io/wotydbho-the-typescripter/pen/PoxoRPb)
 
-[]()
+[Split Landing Page](https://codepen.io/wotydbho-the-typescripter/pen/WNYbrEm)
 
 []()
