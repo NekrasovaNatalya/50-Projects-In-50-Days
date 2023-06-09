@@ -11,6 +11,6 @@
 
 [Scroll Animation](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/06-scroll-animation/)
 
-[Split Landing Page](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/)
+[Split Landing Page](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/07-split-landing-page/)
 
-[Form Wave Animation](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/)
+[Form Wave Animation](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/08- form-wave-animation/)
