@@ -1,7 +1,7 @@
 # 50-Projects-In-50-Days
 [Card Sources](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/01-cards-sources/)
 
-[Progress Steps](https://codepen.io/wotydbho-the-typescripter/pen/QWJWQmd)
+[Progress Steps](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/02-progress-steps/)
 
 [Rotating Navigation](https://codepen.io/wotydbho-the-typescripter/pen/oNQNEaO)
 
