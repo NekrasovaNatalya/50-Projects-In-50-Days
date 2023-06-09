@@ -7,7 +7,7 @@
 
 [Hidden Search Widget](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/04-hidden-search-widget/)
 
-[Blurry Loading](https://codepen.io/wotydbho-the-typescripter/pen/QWJWmbO)
+[Blurry Loading](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/05-blurry-loading/)
 
 [Scroll Animation](https://codepen.io/wotydbho-the-typescripter/pen/PoxoRPb)
 
