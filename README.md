@@ -13,4 +13,4 @@
 
 [Split Landing Page](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/07-split-landing-page/)
 
-[Form Wave Animation](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/08- form-wave-animation/)
+[Form Wave Animation](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/08-form-wave-animation/)
