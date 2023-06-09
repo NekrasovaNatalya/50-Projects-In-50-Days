@@ -9,7 +9,7 @@
 
 [Blurry Loading](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/05-blurry-loading/)
 
-[Scroll Animation](https://codepen.io/wotydbho-the-typescripter/pen/PoxoRPb)
+[Scroll Animation](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/06-scroll-animation/)
 
 [Split Landing Page](https://codepen.io/wotydbho-the-typescripter/pen/WNYbrEm)
 
