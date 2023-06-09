@@ -5,7 +5,7 @@
 
 [Rotating Navigation](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/03-roating-navigation/)
 
-[Hidden Search Widget](https://codepen.io/wotydbho-the-typescripter/pen/jOQOZga)
+[Hidden Search Widget](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/04-hidden-search-widget/)
 
 [Blurry Loading](https://codepen.io/wotydbho-the-typescripter/pen/QWJWmbO)
 
