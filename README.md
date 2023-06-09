@@ -1,5 +1,5 @@
 # 50-Projects-In-50-Days
-[Card Sources](https://codepen.io/wotydbho-the-typescripter/pen/qBQBxpQ)
+[Card Sources]([https://codepen.io/wotydbho-the-typescripter/pen/qBQBxpQ](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/01-cards-sources/))
 
 [Progress Steps](https://codepen.io/wotydbho-the-typescripter/pen/QWJWQmd)
 
