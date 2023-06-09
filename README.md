@@ -11,6 +11,6 @@
 
 [Scroll Animation](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/06-scroll-animation/)
 
-[Split Landing Page](https://codepen.io/wotydbho-the-typescripter/pen/WNYbrEm)
+[Split Landing Page](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/)
 
-[Form Wave Animation](https://codepen.io/wotydbho-the-typescripter/pen/bGQNEoO)
+[Form Wave Animation](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/)
