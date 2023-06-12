@@ -16,3 +16,5 @@
 [Form Wave Animation](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/08-form-wave-animation/)
 
 [Sound Board](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/09-sound-boad/)
+
+[Dad Jokes](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/10-dad-jokes/)
