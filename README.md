@@ -18,3 +18,5 @@
 [Sound Board](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/09-sound-boad/)
 
 [Dad Jokes](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/10-dad-jokes/)
+
+[Event keyCode](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/11-event-keyCodes/)
