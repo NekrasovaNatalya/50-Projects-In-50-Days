@@ -22,3 +22,5 @@
 [Event keyCode](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/11-event-keyCodes/)
 
 [FAQ Collapse](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/12-FAQ-Collapse/)
+
+[Random Choice Picker](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/13-Random-Choice-Picker/)
