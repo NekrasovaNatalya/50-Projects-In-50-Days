@@ -26,3 +26,5 @@
 [Random Choice Picker](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/13-Random-Choice-Picker/)
 
 [Animated Navigation](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/14-Animated-Navigation/)
+
+[Incrementing Counter](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/15-Incrementing-Counter/)
