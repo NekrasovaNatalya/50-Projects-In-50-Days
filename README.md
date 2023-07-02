@@ -28,3 +28,5 @@
 [Animated Navigation](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/14-Animated-Navigation/)
 
 [Incrementing Counter](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/15-Incrementing-Counter/)
+
+[Drink Water](https://nekrasovanatalya.github.io/50-Projects-In-50-Days/16-Drink-Water/)
